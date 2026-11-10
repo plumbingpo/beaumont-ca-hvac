@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beaumontcahvac.com/sitemap.xml
